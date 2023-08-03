@@ -1,0 +1,432 @@
+{
+	"public_identifier": "jhpiedrahitao",
+	"profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jhpiedrahitao/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T173444Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d4fd240c6b1255cd453a4aed95c0e7857f0cd87b30ca64a54e978648fb5da80f",
+	"background_cover_image_url": null,
+	"first_name": "Jorge",
+	"last_name": "Piedrahita Ortiz",
+	"full_name": "Jorge Piedrahita Ortiz",
+	"follower_count": null,
+	"occupation": "Research and Development Engineer at Millenium BPO",
+	"headline": "Mechatronics Engineer",
+	"summary": "Experienced Mechatronics Engineer with a demonstrated history of working projects related to the information technology and product and services industry. Skilled in Python, Creativity Skills, 3D printing, Electro-Mechanical Design, Product Design, and Manufacturing process, Also experience in data an\\u00e1lisis, machine learning, computer visi\\u00f3n, natural lenguage processing, robotic systems design, drone design, embedded systems, SBCs, and Python, C, and Java programming, with Bachelors degree in Mechatronics engineering from Universidad Nacional de Colombia.",
+	"country": "CO",
+	"country_full_name": "Colombia",
+	"city": null,
+	"state": null,
+	"experiences": [{
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2019
+		},
+		"ends_at": null,
+		"company": "Millenium BPO",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/milleniumbpo/",
+		"title": "Research and Development Engineer",
+		"description": null,
+		"location": "Bogot\\u00e1 D.C. Area, Colombia",
+		"logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/milleniumbpo/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T173447Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=04997e8af35d8b82a2d7e9307b754dc68e202414cee75d7e9cee976b5f154050"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2015
+		},
+		"ends_at": {
+			"day": 28,
+			"month": 2,
+			"year": 2019
+		},
+		"company": "Universidad Nacional de Colombia",
+		"company_linkedin_profile_url": "https://www.linkedin.com/school/universidadnacionaldecolombia/",
+		"title": "Estudiante Investigador",
+		"description": null,
+		"location": "Bogot\\u00e1, Distrito Capital, Colombia",
+		"logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQErQBryGJD1LA/company-logo_400_400/0/1629406525017?e=1661385600&v=beta&t=B5ShKyu_nnpjzwBlrOZX1mWuPi6SXcDplaOXUrN1hlI"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 11,
+			"year": 2017
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 1,
+			"year": 2018
+		},
+		"company": "University of Geneva",
+		"company_linkedin_profile_url": "https://www.linkedin.com/school/universite-de-geneve/",
+		"title": "Subaquatic Sampler Prototipe Development",
+		"description": null,
+		"location": null,
+		"logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGs9sQXQg_thg/company-logo_400_400/0/1519885766136?e=1661385600&v=beta&t=CRsd7MlWseFOjSkU7UL050EXp3QkuB9swp2m4xK73JM"
+	}],
+	"education": [{
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2013
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 12,
+			"year": 2018
+		},
+		"field_of_study": "Mechatronic Enginner",
+		"degree_name": "Bachelor of Engineering - BE",
+		"school": "Universidad Nacional de Colombia",
+		"school_linkedin_profile_url": null,
+		"description": null,
+		"logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQErQBryGJD1LA/company-logo_400_400/0/1629406525017?e=1661385600&v=beta&t=B5ShKyu_nnpjzwBlrOZX1mWuPi6SXcDplaOXUrN1hlI",
+		"grade": null,
+		"activities_and_societies": null
+	}],
+	"languages": ["Espa\\u00f1ol", "Ingl\\u00e9s"],
+	"accomplishment_organisations": [{
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2016
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 1,
+			"year": 2018
+		},
+		"org_name": "RAS capitulo de rob\\u00f3tica y automazaci\\u00f3n rama IEEE Universidad Nacional de Colombia",
+		"title": "Presidente",
+		"description": null
+	}],
+	"accomplishment_publications": [{
+		"name": "LYRO indumentaria inteligente para motociclistas",
+		"publisher": "Memorias del evento EIEI 2017 - ACOFI",
+		"published_on": {
+			"day": 1,
+			"month": 1,
+			"year": 2017
+		},
+		"description": null,
+		"url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiH_43D957tAhUOmeAKHV-tDQgQFjAOegQICxAC&url=https%3A%2F%2Facofipapers.org%2Findex.php%2Feiei%2Farticle%2Fdownload%2F649%2F654&usg=AOvVaw3DS5eeWN3tB7Hl2nogVIIq"
+	}, {
+		"name": "Dise\\u00f1o y prototipado de un robot explorador que soporte las actividades de los bomberos",
+		"publisher": "Memorias del evento CIIMA 2015  -  EIA",
+		"published_on": {
+			"day": 1,
+			"month": 1,
+			"year": 2015
+		},
+		"description": null,
+		"url": "https://revistas.eia.edu.co/index.php/mem/article/view/825"
+	}],
+	"accomplishment_honors_awards": [],
+	"accomplishment_patents": [],
+	"accomplishment_courses": [{
+		"name": "2020 Complete Python Bootcamp: From Zero to Hero in Python - Udemy - 21.5 horas",
+		"number": null
+	}, {
+		"name": "Controladores L\\u00f3gicos Programables PLC I  - SENA - 40 horas",
+		"number": "9219001256796CC1032488297"
+	}, {
+		"name": "Diplomado Programa de conocimiento en habilidades de programaci\\u00f3n de MISI\\u00d3N TIC 2022 - 2020 - Universidad Nacional de Colombia - 600 horas",
+		"number": null
+	}, {
+		"name": "Gerencia de Proyectos y Metodolog\\u00edas \\u00c1giles Bajo Modelo SCRUM - 60 horas - SENA -Politecnico Grancolombiano",
+		"number": null
+	}, {
+		"name": "Manejo b\\u00e1sico de la herramienta plm catia v5 para el dise\\u00f1o de nuevos productos 40 horas - SENA",
+		"number": "9215001639110CC1032488297"
+	}, {
+		"name": "MisionTIC2022 Ciclo1: Fundamentos de programaci\\u00f3n - 2020 - Universidad Nacional de Colombia - 200 horas",
+		"number": "G-3"
+	}, {
+		"name": "MisionTIC2022 Ciclo2: programaci\\u00f3n basica - 2020 - Universidad Nacional de Colombia - 200 horas",
+		"number": "G-3"
+	}, {
+		"name": "MisionTIC2022 Ciclo3: Desarrollo de Software - 2020 - Universidad Nacional de Colombia - 200 horas",
+		"number": "G-3"
+	}, {
+		"name": "Probability and Statistics for Business and Data Science - Udemy - 5 horas",
+		"number": null
+	}],
+	"accomplishment_projects": [{
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2020
+		},
+		"ends_at": null,
+		"title": "Thalon UV",
+		"description": "Thalon UV is an autonomous robot designed for large spaces disinfection ",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2019
+		},
+		"ends_at": null,
+		"title": "MIBS",
+		"description": "Millenium Intelligent Biometric System (MIBS) es es un sistema de control de acceso basado en reconocimiento facial que adicionalmente cuenta sensores t\\u00e9rmicos que permiten validar temperatura corporal.",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 5,
+			"year": 2019
+		},
+		"ends_at": null,
+		"title": "UVMBox",
+		"description": "Caja para desinfecci\\u00f3n y esterilizaci\\u00f3n de elementos personales para prevenir el contagio de Covid-19 a trav\\u00e9s del uso de luz ultravioleta UVC.",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2019
+		},
+		"ends_at": null,
+		"title": "Thalon",
+		"description": "Thalon is an Autonomous Robot designed for room service in hotels",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2017
+		},
+		"ends_at": {
+			"day": 28,
+			"month": 2,
+			"year": 2019
+		},
+		"title": "Hydrocontest 2018",
+		"description": "Participacion en concurso Hydrocontest 2018 equipo tridente, enfocado en dise\\u00f1o y fabircaci\\u00f3n de embarcaci\\u00f3nes con alta eficiencia Energetica para concurso de velocidad, carga y duraci\\u00f3n en Saint-Tropez Francia\\nDirigido por Jorge Sofrony PhD",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2017
+		},
+		"ends_at": {
+			"day": 28,
+			"month": 2,
+			"year": 2019
+		},
+		"title": "LYRO light on the road - indumentaria inteligente para motociclistas",
+		"description": "Emprendimiento LYRO indumentaria inteligente para motociclistas",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2017
+		},
+		"ends_at": {
+			"day": 28,
+			"month": 2,
+			"year": 2019
+		},
+		"title": "Semillero de investigacion - Posicionamiento dinamico",
+		"description": "investigaci\\u00f3n y desarrollo de una plataforma- embarcaci\\u00f3n para relaizar labores de posicionamiento dinamico\\nDirigido por Jorge Sofrony PhD",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 6,
+			"year": 2017
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 12,
+			"year": 2018
+		},
+		"title": "Pv4 UNOA",
+		"description": "Dise\\u00f1o y construcci\\u00f3n de una vivienda sustentable para participar en el concuso Solar Decathlon Latinoamerica y caribe como lider de equipo de ingenier\\u00eda 2018\\nDirector Andres Iba\\u00f1es PhD",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2014
+		},
+		"ends_at": {
+			"day": 30,
+			"month": 6,
+			"year": 2016
+		},
+		"title": "Firebot semillero de investigaci\\u00f3n",
+		"description": "Dise\\u00f1o y prototipado de un robot explorador que soporte las actividades de los bomberos\\nDirigido por Irma Angarita PhD",
+		"url": null
+	}],
+	"accomplishment_test_scores": [],
+	"volunteer_work": [{
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2016
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 1,
+			"year": 2018
+		},
+		"title": "Presidente Capitulo RAS Universidad Nacional de Colombia",
+		"cause": "Science_and_technology",
+		"company": "IEEE Robotics and Automation Society",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/ieee-ras/",
+		"description": null,
+		"logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE606QurwKTqg/company-logo_400_400/0/1519911100382?e=1661385600&v=beta&t=d-wmXu-VCHpgIebq0snl_jcWsLSLgmSjloKIPtqHSvc"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2014
+		},
+		"ends_at": {
+			"day": 30,
+			"month": 4,
+			"year": 2019
+		},
+		"title": "Voluntario",
+		"cause": "Science_and_technology",
+		"company": "Comit\\u00e9 de Estudiantes de Ingenier\\u00eda Industrial de la PUCMM.",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/comit%C3%A9-de-estudiantes-de-ingenier%C3%ADa-industrial-de-la-pucmm-/",
+		"description": null,
+		"logo_url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2015
+		},
+		"ends_at": {
+			"day": 30,
+			"month": 4,
+			"year": 2019
+		},
+		"title": "Voluntario",
+		"cause": "Science_and_technology",
+		"company": "IEEE Student Branch UNAL",
+		"company_linkedin_profile_url": null,
+		"description": null,
+		"logo_url": null
+	}],
+	"certifications": [{
+		"starts_at": {
+			"day": 1,
+			"month": 6,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Applied Text Mining in Python",
+		"license_number": "GLG6P4GJLL7P",
+		"display_source": "coursera.org",
+		"authority": "Coursera",
+		"url": "https://www.coursera.org/account/accomplishments/certificate/GLG6P4GJLL7P"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "    Applied Machine Learning in Python",
+		"license_number": "YM7MVQKRSGU5",
+		"display_source": "coursera.org",
+		"authority": "Coursera",
+		"url": "https://www.coursera.org/account/accomplishments/certificate/YM7MVQKRSGU5"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Applied Plotting, Charting & Data Representation in Python",
+		"license_number": "B22U3JDX7SXY",
+		"display_source": "coursera.org",
+		"authority": "Coursera",
+		"url": "https://www.coursera.org/account/accomplishments/certificate/B22U3JDX7SXY"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Introduction to Data Science in Python",
+		"license_number": "J9UFDJEJTA8Z",
+		"display_source": "coursera.org",
+		"authority": "Coursera",
+		"url": "https://www.coursera.org/account/accomplishments/certificate/J9UFDJEJTA8Z"
+	}],
+	"connections": null,
+	"people_also_viewed": [{
+		"link": "https://www.linkedin.com/in/fran-hutchins-b9881b24",
+		"name": "Fran Hutchins",
+		"summary": "Manager, Regulatory Affairs - Solutions at Haemonetics Corp.",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/marcela-gordillo-polo-471b67138",
+		"name": "Marcela Gordillo Polo",
+		"summary": "Community Manager en GM Eventos Cartagena",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/herbert-alfonso-garcia-rios-86587b98",
+		"name": "Herbert Alfonso Garcia Rios",
+		"summary": "Director de Proyectos en LEONARDO LUNA SOLUCIONES S.A.S",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/waqas-amin-6a563a1ba",
+		"name": "Waqas Amin",
+		"summary": "--",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/sergio-puyana-03695558",
+		"name": "Sergio Puyana",
+		"summary": "Gerente en Gente Disponible SA SEPP SAS",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/michael-bell-60622810a",
+		"name": "Michael Bell",
+		"summary": "Automation Engineer.",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/sor-angela-hernandez-tarazona-693176145",
+		"name": "Sor Angela Hernandez Tarazona",
+		"summary": "Especialista en Gerencia de Empresas",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/juan-andres-matias",
+		"name": "Juan Andr\\u00e9s Mat\\u00edas Rodr\\u00edguez T.",
+		"summary": "Creative Content Strategist",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/estefania-cortes-gonzalez-803755148",
+		"name": "Estefania Cortes Gonzalez",
+		"summary": "Tecnologa en Contabilidad y Finanzas",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/vcardenas",
+		"name": "Victor Hugo C\\u00e1rdenas Var\\u00f3n",
+		"summary": "Software Developer",
+		"location": null
+	}],
+	"recommendations": [],
+	"activities": [],
+	"similarly_named_profiles": [],
+	"articles": [],
+	"groups": [],
+	"phone_numbers": [],
+	"social_networking_services": [],
+	"skills": [],
+	"inferred_salary": null,
+	"gender": null,
+	"birth_date": null,
+	"industry": null,
+	"extra": null,
+	"interests": [],
+	"personal_emails": [],
+	"personal_numbers": []
+}
